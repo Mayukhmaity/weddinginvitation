@@ -1,14 +1,5 @@
 'use strict';
 
-/*!
-    Title: Vertical-Timeline
-    Version: 2.0.0
-    Last Change: 04/30/17
-    Author: Ryan Fitzgerald
-    Repo: https://github.com/RyanFitzgerald/vertical-timeline
-    Issues: https://github.com/RyanFitzgerald/vertical-timeline/issues
-	LICENSE: MIT
-*/
 
 (function ($) {
 
